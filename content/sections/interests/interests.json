@@ -1,0 +1,149 @@
+{
+  "interests": [
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "../../images/java.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C++",
+      "image": {
+        "src": "../../images/c++.jpg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C",
+      "image": {
+        "src": "../../images/c.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Express js",
+      "image": {
+        "src": "../../images/expressjs.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node js",
+      "image": {
+        "src": "../../images/nodejs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Django",
+      "image": {
+        "src": "../../images/django.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "REST",
+      "image": {
+        "src": "../../images/rest.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MongoDB",
+      "image": {
+        "src": "../../images/mongodb.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS",
+      "image": {
+        "src": "../../images/aws.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/docker.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/HTML.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/CSS.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Firebase",
+      "image": {
+        "src": "../../images/firebase.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Windows",
+      "image": {
+        "src": "../../images/windows.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Ubuntu",
+      "image": {
+        "src": "../../images/ubuntu.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Apache2",
+      "image": {
+        "src": "../../images/apache.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 40
+  }
+}

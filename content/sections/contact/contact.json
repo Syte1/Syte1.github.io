@@ -1,0 +1,13 @@
+{
+  "name": "Gmail:",
+  "email": "BelalKourkmas@gmail.com",
+  "description": "For inquiries, please email me.",
+  "image": {
+    "src": "../../images/gmail.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
