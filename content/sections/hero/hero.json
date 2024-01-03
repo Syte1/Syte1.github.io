@@ -1,22 +1,22 @@
 {
-  "intro": "Hello",
-  "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
-  },
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
-  },
-  "title": "I'm Belal Kourkmas",
-  "subtitle": {
-    "prefix": "",
-    "highlight": "",
-    "suffix": ""
-  },
-  "description": "A driven software developer with a love for tech and problem-solving.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
-    "showIcons": false
-  }
+	"intro": "Hello",
+	"heroPhoto": {
+		"src": "../../images/Belal1.png",
+		"alt": "My Photo"
+	},
+	"image": {
+		"src": "../../images/waving-hand.png",
+		"alt": "Waving Hand Emoji"
+	},
+	"title": "I'm Belal Evan Kourkmas",
+	"subtitle": {
+		"prefix": "",
+		"highlight": "",
+		"suffix": ""
+	},
+	"description": "A driven software developer with a love for tech and problem-solving.",
+	"socialProfiles": {
+		"from": ["LinkedIn", "GitHub", "Mail"],
+		"showIcons": true
+	}
 }

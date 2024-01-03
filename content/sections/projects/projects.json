@@ -1,147 +1,417 @@
 {
-  "projects": [
-    {
-      "visible": true,
-      "category": "Cloud Project",
-      "title": "Anon Images",
-      "description": "A platform to Share, Like, Browse, and Download images with the community!",
-      "tags": ["JavaScript", "React", "Express JS","Node JS","AWS EC2","AWS DynamoDB","AWS S3", "AWS Route53", "Ubuntu", "Apache2"],
-      "image": {
-        "src": "../../images/anonimages.png",
-        "alt": "anonimages",
-        "linkTo": "https://belalk.xyz"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Syte1/cloud-project-photo-app"
-        },
-        {
-          "type": "external",
-          "url": "https://belalk.xyz"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "SAP Hackathon 2022",
-      "title": "snackOverflow",
-      "description": "snackOverflow is a web application that helps people who are returning to the office make new friendships and connections over a shared meal. Users can swap and share their food, and can leave anonymous comments on other people's posts to let them know they are interested in sharing their snack. Developed in a day and a half for SAP's 2022 Hackathon.",
-      "tags": ["JavaScript", "React", "Express JS","Node JS","MongoDB","Socket IO"],
-      "image": {
-        "src": "../../images/snackoverflow.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://github.com/Syte1/snackOverflow"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Syte1/snackOverflow"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "Object-Oriented Java Project",
-      "title": "Animal Hustler",
-      "description": "A game where you feed as many cows as possible before the timer runs out! Your parents have left town and have left you in charge of running the family farm for three months. The good news is that you keep the profits of whatever you earn! Can you make enough tuition and pocket money to attend school in the fall? Move your avatar around the map using W,A,S,D controls and run into a cow to feed it. The faster you feed it, the more coins you get! Beware of nasty surprises if you don't feed a cow in time. As the game progresses, cows will spawn faster and faster. Try and feed them all!",
-      "tags": ["Java", "JavaFX", "FXGL","Object-Oriented Design","Cooperation","Documentation", "Planning", "Game Design"],
-      "image": {
-        "src": "../../images/animahustler1.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://github.com/Syte1/AnimalHustler"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Syte1/AnimalHustler"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "nwHacks2022 Hackathon",
-      "title": "Outliner",
-      "description": "A discord bot that answers questions from BCIT course outlines using OpenAI's answer API. The bot must be provided with a list of links for the course outlines, and then initialized before being used. Initializing the bot will run the scraper module which scrapes the web pages of the course outlines for useful data. The data is then converted in to a text file which then goes to the ai_answers module, where the OpenAI works on the collected data and provides suitable answers to the questions. Finally, the discord bot is used a user interface to ask and answer the questions.",
-      "tags": ["Python", "OpenAI", "Web-Scraping","Documentation", "Teamwork"],
-      "image": {
-        "src": "../../images/discord.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://github.com/Syte1/nwHacks2022"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Syte1/nwHacks2022"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "School Project",
-      "title": "DeskBuddy",
-      "description": "A mobile-first web app designed to remind and guide users to take breaks.",
-      "tags": ["Python", "OpenAI", "Web-Scraping","Documentation", "Teamwork"],
-      "image": {
-        "src": "../../images/deskbuddy.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://github.com/Syte1/DeskBuddy"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Syte1/DeskBuddy"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "School Project",
-      "title": "Wrath of the Necromancer",
-      "description": "A MUD-type game that focuses on an adventurer seeking to avenge their village after the atrocities commited by the necromancer of the land. You will start weak, explore the wilderness, fight various enemies, level up, explore new areas, and collect useful doodads along the way. Find the necromancer and end his tryanny.",
-      "tags": ["Python", "OpenAI", "Web-Scraping","Documentation", "Teamwork"],
-      "image": {
-        "src": "../../images/necromancer.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://www.youtube.com/watch?v=qHwKfwtbcjY"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Syte1/Wrath-of-the-Necromancer"
-        },
-        {
-          "type": "external",
-          "url": "https://www.youtube.com/watch?v=qHwKfwtbcjY"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "Personal Project",
-      "title": "Image Recognition Game Bot",
-      "description": "A fun project I made in my free time experimenting with OpenCV Image Recognition. It trains on images and plays games automatically at inhuman levels",
-      "tags": ["Self-Research", "Python", "OpenCV","Artificial Intelligence"],
-      "image": {
-        "src": "../../images/opencv.jpg",
-        "alt": "Extendable Layout",
-        "linkTo": "https://www.youtube.com/watch?v=za8hO3EMCzk"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "hhttps://github.com/Syte1/ImageRecognitionBot"
-        },
-        {
-          "type": "external",
-          "url": "https://www.youtube.com/watch?v=za8hO3EMCzk"
-        }
-      ]
-    }
-  ],
-  "button": {
-    "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/Syte1"
-  }
+	"projects": [
+		{
+			"visible": true,
+			"category": "Personal Project",
+			"title": "Lethal Company Quota Optimizer",
+			"description": "Find out which items to sell to meet your quota without going over more than necessary.",
+			"tags": [
+				"Python",
+				"JavaScript",
+				"Flask",
+				"React",
+				"Bootstrap"
+			],
+			"image": {
+				"src": "../../images/lethal.png",
+				"alt": "lethal-company-quota-optimizer",
+				"linkTo": "https://lethal-company-quota-optimizer-frontend.onrender.com/"
+			},
+			"links": [
+				{
+					"type": "external",
+					"url": "https://lethal-company-quota-optimizer-frontend.onrender.com/"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Group Project",
+			"title": "ChronoSystems AWS TimeSheet Engine",
+			"description": "A serverless cloud-based utility for employers and employees to manage their timesheets and paystubs.",
+			"tags": [
+				"JavaScript",
+				"AWS EC2",
+				"AWS API Gateway",
+				"AWS CodeBuild",
+				"AWS CodeDeploy",
+				"AWS CodePipeline",
+				"AWS Cognito",
+				"AWS DynamoDB",
+				"AWS ELB",
+				"AWS Event Bridge Scheduler",
+				"AWS Lambda",
+				"AWS Route53",
+				"AWS S3",
+				"AWS SES",
+				"AWS SNS",
+				"AWS Step Functions",
+				"Teamwork"
+			],
+			"image": {
+				"src": "../../images/chronosystems.png",
+				"alt": "chronosystems",
+				"linkTo": "https://github.com/Syte1/ChronoSystems-AWS-TimeSheet-Engine"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/ChronoSystems-AWS-TimeSheet-Engine"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "1st Place YVR Hackathon 2023 Project",
+			"title": "Crow's Nest",
+			"description": "Project based on OpenCV Image Recognition that uses a system of interconnected cameras to create a map of zones that need maintenance, and links to the YVR Digital Twins app to display zones to workers and deploy cleaning robots when applicable. Software can also be linked to VR goggles that help workers find these zones.",
+			"tags": [
+				"Python",
+				"OpenCV",
+				"Image Recognition",
+				"Teamwork",
+				"Creativity"
+			],
+			"image": {
+				"src": "../../images/crowsnest.png",
+				"alt": "crowsnest",
+				"linkTo": "https://www.linkedin.com/posts/belalk_i-am-excited-to-share-that-today-552023-activity-7060511426855014400-jZ62?utm_source=share&utm_medium=member_desktop"
+			},
+			"links": [
+				{
+					"type": "linkedIn",
+					"url": "https://www.linkedin.com/posts/belalk_i-am-excited-to-share-that-today-552023-activity-7060511426855014400-jZ62?utm_source=share&utm_medium=member_desktop"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Cloud Project",
+			"title": "Anon Images",
+			"description": "A platform to Share, Like, Browse, and Download images with the community!",
+			"tags": [
+				"JavaScript",
+				"React",
+				"Express JS",
+				"Node JS",
+				"AWS EC2",
+				"AWS DynamoDB",
+				"AWS S3",
+				"AWS Route53",
+				"AWS CodePipeline",
+				"AWS CodeDeploy",
+				"Ubuntu",
+				"Apache2"
+			],
+			"image": {
+				"src": "../../images/anonimages.png",
+				"alt": "anonimages",
+				"linkTo": "https://belalk.xyz"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/cloud-project-photo-app"
+				},
+				{
+					"type": "external",
+					"url": "https://belalk.xyz"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Group project",
+			"title": "AI Summarizer",
+			"description": "An AI text summarizer using a pretrained model from HuggingFace in combination with a login system, an admin page, a documented API, and an API limit for users.",
+			"tags": [
+				"Python",
+				"JavaScript",
+				"Flask",
+				"HuggingFace",
+				"Artifical Intelligence",
+				"Teamwork"
+			],
+			"image": {
+				"src": "../../images/summarizer.png",
+				"alt": "summarizer",
+				"linkTo": "https://github.com/pangchunh/ai-summarizer"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/pangchunh/ai-summarizer"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Object-Oriented Project",
+			"title": "PokeAPI Pokedex",
+			"description": "A Pokedex that uses RESTful API calls to display Pokemon, Stats, Abilities, and Skills using many design patterns like Chain of Responsibility, Factories, Facade, and more.",
+			"tags": [
+				"Python",
+				"Object-Oriented Design",
+				"REST APIs",
+				"Design Patterns"
+			],
+			"image": {
+				"src": "../../images/pokeapi.png",
+				"alt": "pokeapi",
+				"linkTo": "https://github.com/Syte1/pokedex"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/pokedex"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "SAP Hackathon 2022",
+			"title": "snackOverflow",
+			"description": "snackOverflow is a web application that helps people who are returning to the office make new friendships and connections over a shared meal. Users can swap and share their food, and can leave anonymous comments on other people's posts to let them know they are interested in sharing their snack. Developed in a day and a half for SAP's 2022 Hackathon.",
+			"tags": [
+				"JavaScript",
+				"React",
+				"Express JS",
+				"Node JS",
+				"MongoDB",
+				"Socket IO"
+			],
+			"image": {
+				"src": "../../images/snackoverflow.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://github.com/Syte1/snackOverflow"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/snackOverflow"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Object-Oriented Java Project",
+			"title": "Animal Hustler",
+			"description": "A game where you feed as many cows as possible before the timer runs out! Your parents have left town and have left you in charge of running the family farm for three months. The good news is that you keep the profits of whatever you earn! Can you make enough tuition and pocket money to attend school in the fall? Move your avatar around the map using W,A,S,D controls and run into a cow to feed it. The faster you feed it, the more coins you get! Beware of nasty surprises if you don't feed a cow in time. As the game progresses, cows will spawn faster and faster. Try and feed them all!",
+			"tags": [
+				"Java",
+				"JavaFX",
+				"FXGL",
+				"Object-Oriented Design",
+				"Cooperation",
+				"Documentation",
+				"Planning",
+				"Game Design"
+			],
+			"image": {
+				"src": "../../images/animahustler1.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://github.com/Syte1/AnimalHustler"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/AnimalHustler"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "nwHacks2022 Hackathon",
+			"title": "Outliner",
+			"description": "A discord bot that answers questions from BCIT course outlines using OpenAI's answer API. The bot must be provided with a list of links for the course outlines, and then initialized before being used. Initializing the bot will run the scraper module which scrapes the web pages of the course outlines for useful data. The data is then converted in to a text file which then goes to the ai_answers module, where the OpenAI works on the collected data and provides suitable answers to the questions. Finally, the discord bot is used a user interface to ask and answer the questions.",
+			"tags": [
+				"Python",
+				"OpenAI",
+				"Web-Scraping",
+				"Documentation",
+				"Teamwork"
+			],
+			"image": {
+				"src": "../../images/outliner1.webp",
+				"alt": "Extendable Layout",
+				"linkTo": "https://github.com/Syte1/nwHacks2022"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/nwHacks2022"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "School Project",
+			"title": "DeskBuddy",
+			"description": "A mobile-first web app designed to remind and guide users to take breaks.",
+			"tags": [
+				"JavaScript",
+				"Bootstrap",
+				"Documentation",
+				"Teamwork"
+			],
+			"image": {
+				"src": "../../images/deskbuddy.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://github.com/Syte1/DeskBuddy"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/DeskBuddy"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Personal Project",
+			"title": "Wrath of the Necromancer",
+			"description": "A MUD-type game that focuses on an adventurer seeking to avenge their village after the atrocities commited by the necromancer of the land. You will start weak, explore the wilderness, fight various enemies, level up, explore new areas, and collect useful doodads along the way. Find the necromancer and end his tyranny.",
+			"tags": [
+				"Python",
+				"Game Design",
+				"Unit Testing",
+				"Documentation"
+			],
+			"image": {
+				"src": "../../images/necromancer.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://www.youtube.com/watch?v=qHwKfwtbcjY"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/Wrath-of-the-Necromancer"
+				},
+				{
+					"type": "external",
+					"url": "https://www.youtube.com/watch?v=qHwKfwtbcjY"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Personal Project",
+			"title": "Image Recognition Game Bot",
+			"description": "A fun project I made in my free time experimenting with OpenCV Image Recognition. It trains on images and plays games automatically at inhuman levels",
+			"tags": [
+				"Self-Research",
+				"Python",
+				"OpenCV",
+				"Artificial Intelligence"
+			],
+			"image": {
+				"src": "../../images/opencv.jpg",
+				"alt": "Extendable Layout",
+				"linkTo": "https://www.youtube.com/watch?v=za8hO3EMCzk"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/ImageRecognitionBot"
+				},
+				{
+					"type": "external",
+					"url": "https://www.youtube.com/watch?v=za8hO3EMCzk"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "School Project",
+			"title": "Turbo Wallpapers",
+			"description": "A 3-tier web app designed to allow logins, display wallpapers and tips from a MySQL database.",
+			"tags": [
+				"JavaScript",
+				"HTML",
+				"CSS",
+				"Node.js",
+				"jQuery",
+				"MySQL",
+				"XAMPP"
+			],
+			"image": {
+				"src": "../../images/turbowallpapers.webp",
+				"alt": "Extendable Layout",
+				"linkTo": "https://www.youtube.com/watch?v=VhiuKRkVZwI"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/Turbo-Wallpapers"
+				},
+				{
+					"type": "external",
+					"url": "https://www.youtube.com/watch?v=VhiuKRkVZwI"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Group Project",
+			"title": "Git Tutorial Docs",
+			"description": "A document I worked on in a team of three that aims to help newcomers to Git become acquainted with the platform.",
+			"tags": ["Git", "Documentation", "Markdown"],
+			"image": {
+				"src": "../../images/gitLogo.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://cyjimmy.github.io/comm2216-git-docs/"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/comm2216-git-docs"
+				},
+				{
+					"type": "external",
+					"url": "https://cyjimmy.github.io/comm2216-git-docs/"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Personal Project",
+			"title": "Daily LeetCode Slackbot",
+			"description": "A slack bot that automatically sends Leetcode questions. Users can change the difficulty level and category of the Leetcode question. Users can also manually request a Leetcode question.",
+			"tags": ["Python", "Web-scraping", "Slack", "APIs"],
+			"image": {
+				"src": "../../images/slackbot.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://github.com/Syte1/DailyLeetcode-1"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/DailyLeetcode-1"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Personal Project",
+			"title": "Work Tracker",
+			"description": "Tracks how long you're working and reminds you to take a break if you haven't already (tracks this). It is customizable to help you figure out how much time you've spent working so you can feel good about the work you've done for the day.",
+			"tags": ["Python"],
+			"image": {
+				"src": "../../images/worktracker.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://github.com/Syte1/work-tracker"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/Syte1/work-tracker"
+				}
+			]
+		}
+	],
+	"button": {
+		"visible": true,
+		"label": "Visit on GitHub",
+		"url": "https://github.com/Syte1"
+	}
 }
