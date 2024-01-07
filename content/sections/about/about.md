@@ -3,10 +3,11 @@ imageSrc: "../../images/test.png"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I'm a software developer with 3 years of experience based in Vancouver, BC with a passion for technology, improvement, and problem solving. I'm very experienced in fullstack development, have professional experience in backend development, and often work on projects for fun.
+I'm Belal Evan Kourkmas, a software developer from Vancouver, BC, with 3 years of professional experience and 4 years of educational experience.
 
-I am currently in my final year in BCIT's Computer Systems Technology diploma program, specializing in Cloud, and will graduate in December 2023.
+I've graduated from BCIT's Computer Systems Technology program where I received the equivalent education to a Bachelors.
 
-I've been messing around with computers as far as I can remember, and further. That passion for tech only grew, and somewhere down the line I realised I wanted to get into software development. In between, I streamed League of Legends,
-where I repeatedly ranked #1 Ryze worldwide and among the top 0.2% of players. My obsession with improvement has followed me throughout my whole life. Even outside of tech, about 5 years ago, I started playing piano for the first time and have been self-learning ever since. Today, I can play any songs from games or animes by ear.
+I have experience working with many different languages and technologies, along with many chances to create projects in groups.
+
+My passion for technology, improvement, and problem-solving drives me to constantly work on new projects and enhance my skills.
 :)
