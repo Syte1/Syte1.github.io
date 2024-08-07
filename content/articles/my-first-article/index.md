@@ -1,6 +1,6 @@
 ---
 title: "This is an exemplary article for the blog."
-description: "Belal Evan Kourkmas Portfolio."
+description: "Belal Kourkmas Portfolio."
 date: "2021-05-28"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"

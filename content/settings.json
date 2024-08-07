@@ -2,9 +2,9 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://syte1.github.io/",
-    "title": "Portfolio - Belal Evan Kourkmas",
+    "title": "Portfolio - Belal Kourkmas",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A portfolio for Belal Evan Kourkmas",
+    "description": "A portfolio for Belal Kourkmas",
     "author": "Konstantin Münster",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
@@ -15,7 +15,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Belal Evan Kourkmas" },
+    "logo": { "text": "Belal Kourkmas" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
